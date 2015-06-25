@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.1">
+    <title xml:lang="ko">Moedit</title>
+    <description xml:lang="ko">Moedit 모바일 에디터</description>
+    <version>1.0.0</version>
+    <date>2015-06-14</date>
+
+    <author email_address="thename@requery.me" link="https://github.com/ajkj/xe-moedit">
+        <name xml:lang="ko">ajkj</name>
+    </author>
+
+    <colorset>
+        <color name="default">
+            <title xml:lang="ko">default</title>
+        </color>
+    </colorset>
+</skin>
